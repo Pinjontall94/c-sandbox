@@ -1,4 +1,4 @@
-/* C Playground */
+/* C Sandbox */
 
 #include <stdio.h>
 
