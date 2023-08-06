@@ -7,7 +7,7 @@ this README.
 ## Use
 Change main.c? Run the following to get the new output:
 ```
-make clean && make && make run
+make && make run
 ```
 
 Have at it 🤠

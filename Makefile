@@ -4,7 +4,7 @@ all:
 	$(CC) $(CFLAGS) main.c
 
 clean:
-	rm main *.o
+	rm a.out
 
 run:
-	./main
+	./a.out
