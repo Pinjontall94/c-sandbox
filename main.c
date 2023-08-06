@@ -2,12 +2,7 @@
 
 #include <stdio.h>
 
-int inc(int n) {
-    return n + 1;
-}
-
 int main(void) {
-    int result = inc(68);
-    printf("Result: %d\n", result);
+    printf("Hey girl! 🤠");
     return 0;
 }
